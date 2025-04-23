@@ -1,8 +1,8 @@
 # Тестовое задание для ORIMI
 ---
-Модель: CatBoost
+Модель: **CatBoost**
 
-RMSE ~ 3700
+RMSE ~ **3700**
 
 ---
 ## Этап 1 (ML)
@@ -51,6 +51,9 @@ max	100000.000000
 - Скачав к себе этот репозиторий
 - ```bash
   pip install -r requirements.txt
+  ```
+- ```bash
+  python ./main.py
   ```
 
 Воспользоваться:
